@@ -1,5 +1,4 @@
-## Spring cloud 7day simple
-
+此项目是以前从网上找的学习spring cloud的经典例子，分享给大家。
 **7simple**总共有7个例子，展示了spring cloud的基本用法。
 
 -------------------
@@ -23,9 +22,6 @@
 * spring boot版本：1.3.5.RELEASE
 * spring cloud版本：Brixton.RELEASE
 
-详细介绍见：http://www.cnblogs.com/skyblog/p/5127712.html
-
--------------------
--------------------
+我的博客 http://blog.csdn.net/qq_26562641 欢迎大家共同学习进步
 
 
